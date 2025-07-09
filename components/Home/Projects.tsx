@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import { Github, Linkedin, ArrowUpRight} from 'lucide-react'
-import { Profile1, Profile2, Thumbnail1, Thumbnail2, Thumbnail3 } from "@/assets/images/index"
+import { Thumbnail1, Thumbnail2, Thumbnail3 } from "@/assets/images/index"
 
 const Projects = () => {
     return (

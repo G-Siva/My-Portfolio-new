@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { Github, Linkedin, ArrowUpRight, Download } from "lucide-react";
+import { Github, Linkedin, Download } from "lucide-react";
 import { Profile2 } from "@/assets/images";
 import Container from "../Resuable/Container";
 
