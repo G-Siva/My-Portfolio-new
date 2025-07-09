@@ -1,4 +1,3 @@
-import { ReactNode } from 'react'
 import './globals.css'
 import { Bebas_Neue, Inter } from 'next/font/google'
 import NavBar from '@/components/Navigations/NavBar'

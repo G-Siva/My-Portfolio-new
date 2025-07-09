@@ -8,7 +8,7 @@ interface ContainerProps {
     paddingSmall?: boolean
     paddingNormal?: boolean
     paddingLarge?: boolean
-    varient?:Object
+
 }
 
 
